@@ -16,4 +16,6 @@ See the links below to get started!
 - 👋 Come say hi at our <img width="12" height="12" src="https://cdn.simpleicons.org/discourse/black">  [Discourse forums](https://forum.image.sc/ )  or <img width="12" height="12" src="https://cdn.simpleicons.org/zulip/black"> [Zulip chat server](https://imagesc.zulipchat.com/)
 - 📦 Use our software through <img width="12" height="12" src="https://cdn.simpleicons.org/python/black"> [PyPI packages](https://pypi.org/org/Waylab/), <img width="12" height="12" src="https://cdn.simpleicons.org/anaconda/black"> [Conda packages](https://github.com/cytomining/.github/blob/main/profile/conda_packages.md), or <img width="12" height="12" src="https://cdn.simpleicons.org/r/black"> [R packages](https://github.com/cytomining/.github/blob/main/profile/r_packages.md)
 - 😃 Check out our amazing [community of contributors](https://github.com/orgs/cytomining/people)
+- 🏫 Get involved in the [CytoData community](https://www.cytodata.org/)
+- 📫 Subscribe to our [mailing list](https://www.cytodata.org/contact/) 
 - 🌈 Please abide our community [Code of Conduct](https://github.com/cytomining/.github/blob/main/CODE_OF_CONDUCT.md)
