@@ -3,6 +3,7 @@
 The [Cytomining](https://github.com/cytomining) maintainers and community take security bugs seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
 To report a security issue, please use the GitHub Security Advisory __"Report a Vulnerability" tab__ within the related a related project.
+If you don't find the relevant project link below, please select one from the below and specify in the form fields to which project the issue pertains.
 
 - [__Pycytominer__ Vulnerability Report Form](https://github.com/cytomining/pycytominer/security/advisories/new)
 - [__CytoTable__ Vulnerability Report Form](https://github.com/cytomining/cytotable/security/advisories/new)
