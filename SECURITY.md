@@ -11,6 +11,6 @@ If you don't find the relevant project link below, please select one from the be
 ## Using "Development" vs "Non-development" Dependencies
 
 A number of development-only dependencies are included with Cytomining projects for maintenance and testing purposes.
-Please see, for example, project `pyproject.toml` table `[tool.poetry.dependencies]` for a list of non-development dependencies and `[tool.poetry.group.dev.dependencies]` for a list of development dependencies.
+Please see, for example, project `pyproject.toml` table `[project.dependencies]` for a list of non-development dependencies and `[dependency-groups]` for a list of development dependencies.
 Development dependencies are by default not shipped with distributed versions of the code for this project (for example, distributed code on [PyPI](https://pypi.org/)).
 Just the same, we strongly recommend validating included dependencies and potential vulnerabilities for your environment as well as relevant policy requirements.
