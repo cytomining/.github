@@ -11,26 +11,82 @@ We are proud members of the [CytoData](https://www.cytodata.org/) scientific com
 
 ## Our Tools
 
-| Logo | Tool | Description |
-|------|------|-------------|
-| [![pycytominer](https://raw.githubusercontent.com/cytomining/pycytominer/main/logo/with-text-for-light-bg.png)](https://pycytominer.readthedocs.io/) | [pycytominer](https://pycytominer.readthedocs.io/) | Python package for image-based profiling bioinformatics |
-| [![CytoTable](https://raw.githubusercontent.com/cytomining/CytoTable/main/logo/with-text-for-light-bg.png)](https://cytomining.github.io/CytoTable/) | [CytoTable](https://cytomining.github.io/CytoTable/) | Harmonize high-content image analysis tool outputs |
-| [![coSMicQC](https://raw.githubusercontent.com/cytomining/coSMicQC/main/media/logo/with-text-for-light-bg.png)](https://cytomining.github.io/coSMicQC/) | [coSMicQC](https://cytomining.github.io/coSMicQC/) | Single-cell morphology quality control |
-| [![CytoDataFrame](https://raw.githubusercontent.com/cytomining/CytoDataFrame/main/logo/with-text-for-light-bg.png)](https://cytomining.github.io/CytoDataFrame/) | [CytoDataFrame](https://cytomining.github.io/CytoDataFrame/) | In-memory data format for single-cell profiles alongside images |
-| | [copairs](https://cytomining.github.io/copairs/) | Find profile pairs and compute retrieval metrics |
-| [![DeepProfiler](https://raw.githubusercontent.com/cytomining/DeepProfiler/main/figures/logo/banner.png)](https://github.com/cytomining/DeepProfiler) | [DeepProfiler](https://github.com/cytomining/DeepProfiler) | Morphological profiling using deep learning |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Tool</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-right: 0;"><a href="https://pycytominer.readthedocs.io/"><img alt="pycytominer logo" src="https://raw.githubusercontent.com/cytomining/pycytominer/main/logo/with-text-for-light-bg.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://pycytominer.readthedocs.io/">pycytominer</a></td>
+      <td>Python package for image-based profiling bioinformatics</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"><a href="https://cytomining.github.io/CytoTable/"><img alt="CytoTable logo" src="https://raw.githubusercontent.com/cytomining/CytoTable/main/logo/with-text-for-light-bg.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://cytomining.github.io/CytoTable/">CytoTable</a></td>
+      <td>Harmonize high-content image analysis tool outputs</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"><a href="https://cytomining.github.io/coSMicQC/"><img alt="coSMicQC logo" src="https://raw.githubusercontent.com/cytomining/coSMicQC/main/media/logo/with-text-for-light-bg.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://cytomining.github.io/coSMicQC/">coSMicQC</a></td>
+      <td>Single-cell morphology quality control</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"><a href="https://cytomining.github.io/CytoDataFrame/"><img alt="CytoDataFrame logo" src="https://raw.githubusercontent.com/cytomining/CytoDataFrame/main/logo/with-text-for-light-bg.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://cytomining.github.io/CytoDataFrame/">CytoDataFrame</a></td>
+      <td>In-memory data format for single-cell profiles alongside images</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"></td>
+      <td style="border-left: 0;"><a href="https://cytomining.github.io/copairs/">copairs</a></td>
+      <td>Find profile pairs and compute retrieval metrics</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"><a href="https://github.com/cytomining/DeepProfiler"><img alt="DeepProfiler logo" src="https://raw.githubusercontent.com/cytomining/DeepProfiler/master/figures/logo/banner.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://github.com/cytomining/DeepProfiler">DeepProfiler</a></td>
+      <td>Morphological profiling using deep learning</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Experimental
 
 The following tools are under active development in the [WayScience](https://github.com/WayScience) organization and represent the next generation of the Cytomining ecosystem.
 
 
-| Logo | Tool | Description |
-|------|------|-------------|
-| [![OME-arrow](https://raw.githubusercontent.com/WayScience/ome-arrow/main/docs/src/_static/ome-arrow-with-text.png)](https://github.com/WayScience/ome-arrow) | [OME-arrow](https://github.com/WayScience/ome-arrow) | OME specifications via Apache Arrow for fast, queryable bioimage data |
-| [![iceberg-bioimage](https://raw.githubusercontent.com/WayScience/iceberg-bioimage/main/docs/src/_static/iceberg-bioimage-logo.png)](https://github.com/WayScience/iceberg-bioimage) | [iceberg-bioimage](https://github.com/WayScience/iceberg-bioimage) | Format-agnostic framework for cataloging and querying bioimaging data |
-| [![buscar](https://raw.githubusercontent.com/WayScience/buscar/main/logo/with-text-for-light-bg.png)](https://github.com/WayScience/buscar) | [buscar](https://github.com/WayScience/buscar) | Perturbation hit calling for high-content screening |
-| | [zedprofiler](https://github.com/WayScience/zedprofiler) | CPU-first 3D image feature extraction for high-content profiling |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Tool</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-right: 0;"><a href="https://github.com/WayScience/buscar"><img alt="buscar logo" src="https://raw.githubusercontent.com/WayScience/buscar/main/logo/with-text-for-light-bg.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://github.com/WayScience/buscar">buscar</a></td>
+      <td>Perturbation hit calling for high-content screening</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"></td>
+      <td style="border-left: 0;"><a href="https://github.com/WayScience/zedprofiler">zedprofiler</a></td>
+      <td>CPU-first 3D image feature extraction for high-content profiling</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"><a href="https://github.com/WayScience/ome-arrow"><img alt="OME-arrow logo" src="https://raw.githubusercontent.com/WayScience/ome-arrow/main/docs/src/_static/ome-arrow-with-text.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://github.com/WayScience/ome-arrow">OME-arrow</a></td>
+      <td>OME specifications via Apache Arrow for fast, queryable bioimage data</td>
+    </tr>
+    <tr>
+      <td style="border-right: 0;"><a href="https://github.com/WayScience/iceberg-bioimage"><img alt="iceberg-bioimage logo" src="https://raw.githubusercontent.com/WayScience/iceberg-bioimage/main/docs/src/_static/iceberg-bioimage-logo.png" width="180"></a></td>
+      <td style="border-left: 0;"><a href="https://github.com/WayScience/iceberg-bioimage">iceberg-bioimage</a></td>
+      <td>Format-agnostic framework for cataloging and querying bioimaging data</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Get involved
 
