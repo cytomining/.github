@@ -4,6 +4,8 @@
   <img alt="Cytomining organization logo" src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png?raw=true" style="max-width:100%;" width="500">
 </picture>
 
+<p align="center"><strong>🌐 <a href="https://cytomining.github.io/">cytomining.github.io</a></strong></p>
+
 # Welcome to Cytomining!
 
 [Cytomining](https://github.com/cytomining) is a software ecosystem that maintains essential tools, workflows, and best practices for single-cell image-based profiling and microscopy data analysis research.
@@ -71,7 +73,7 @@ The following tools are under active development in the [WayScience](https://git
       <td>Perturbation hit calling for high-content screening</td>
     </tr>
     <tr>
-      <td style="border-right: 0;"></td>
+      <td style="border-right: 0;"><a href="https://github.com/WayScience/zedprofiler"><img alt="ZEDProfiler logo" src="https://raw.githubusercontent.com/WayScience/zedprofiler/main/logo/with-text-for-light-bg.png" width="180"></a></td>
       <td style="border-left: 0;"><a href="https://github.com/WayScience/zedprofiler">zedprofiler</a></td>
       <td>CPU-first 3D image feature extraction for high-content profiling</td>
     </tr>
@@ -92,6 +94,7 @@ The following tools are under active development in the [WayScience](https://git
 
 See the links below to get started!
 
+- 💬 Join the community on <img width="12" height="12" src="https://cdn.simpleicons.org/discord/black"> [Discord](https://discord.gg/dgEDz6xzfJ)
 - 📺 Watch image-based profiling videos at our <img width="12" height="12" src="https://cdn.simpleicons.org/youtube/black"> [YouTube channel](https://www.youtube.com/@cytodata482)
 - 😃 Check out our amazing [community of contributors](https://github.com/orgs/cytomining/people)
 - 🏫 Learn more about the [CytoData community](https://www.cytodata.org/) we are part of
