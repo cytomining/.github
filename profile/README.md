@@ -4,8 +4,6 @@
   <img alt="Cytomining organization logo" src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png?raw=true" style="max-width:100%;" width="500">
 </picture>
 
-<p align="center"><strong>🌐 <a href="https://cytomining.github.io/">cytomining.github.io</a></strong></p>
-
 # Welcome to Cytomining!
 
 See our homepage here: [cytomining.github.io](https://cytomining.github.io/)
