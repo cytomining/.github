@@ -8,6 +8,8 @@
 
 # Welcome to Cytomining!
 
+See our homepage here: [cytomining.github.io](https://cytomining.github.io/)
+
 [Cytomining](https://github.com/cytomining) is a software ecosystem that maintains essential tools, workflows, and best practices for single-cell image-based profiling and microscopy data analysis research.
 We are proud members of the [CytoData](https://www.cytodata.org/) scientific community.
 
